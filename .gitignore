@@ -1,0 +1,17 @@
+# Build output directories
+Debug/
+Release/
+
+# Compiled binaries and map files
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
+
+# Local IDE debug launch & workspace settings
+*.launch
+.metadata/
+.settings/language.settings.xml
